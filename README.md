@@ -49,7 +49,8 @@ The following technologies were used to build this Discord clone:
     Tailwind CSS: CSS framework for styling the user interface.
     Socket.IO: JavaScript library for real-time bidirectional communication.
 
-## Video 🎥
+## Live Link
+https://discordclone-rahil1202.netlify.app/
 
 
 
