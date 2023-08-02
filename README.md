@@ -20,12 +20,12 @@ Before getting started, ensure that you have the following prerequisites install
 
 1 Clone the repository: <br>
 
-    git clone https://github.com/your-username/discord-clone.git
+    git clone https://github.com/rahil1202/discord-clone.git
 
 2 Navigate to the project directory:
 
 
-    cd discord-clone
+    cd discord_clone
 
 3 Install the dependencies:
 
